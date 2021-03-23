@@ -1,4 +1,4 @@
-# Citi-Bikes-Tableau
+# Tableau
 
 This project creates an interactive dashboard using Tableau to visualize Citi Bikes Data for the month of Oct 2020 - Dec 2020 identifying busy stations, rush hours, Best Station to start and End journeys, Gender wise customer base and find trends of usage that can help the customers to decide their time and route of travel and the management to put in right policies to meet the rising demand.
 
@@ -35,6 +35,10 @@ Most popular hour during the day is between 4pm – 7pm in the evening during th
 • Grove St Path is the most popular station to start and end journey. 
 • The map displays each station the with size and color representing number of Trips starting and ending on the particular station.
  
+### Screenshot
+![image](https://user-images.githubusercontent.com/68937366/112082932-21fb5300-8bc1-11eb-8b05-06368c109113.png)
+
+
  
  
 
